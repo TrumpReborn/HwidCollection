@@ -1,0 +1,7 @@
+F:\Git\HwidEnvironment\HwidEnvironment\bin\Debug\HwidEnvironment.exe.config
+F:\Git\HwidEnvironment\HwidEnvironment\bin\Debug\HwidEnvironment.exe
+F:\Git\HwidEnvironment\HwidEnvironment\bin\Debug\HwidEnvironment.pdb
+F:\Git\HwidEnvironment\HwidEnvironment\obj\Debug\HwidEnvironment.csprojAssemblyReference.cache
+F:\Git\HwidEnvironment\HwidEnvironment\obj\Debug\HwidEnvironment.csproj.CoreCompileInputs.cache
+F:\Git\HwidEnvironment\HwidEnvironment\obj\Debug\HwidEnvironment.exe
+F:\Git\HwidEnvironment\HwidEnvironment\obj\Debug\HwidEnvironment.pdb
